@@ -1,4 +1,6 @@
-# GPU Notes
+# Miscellany
+
+## GPUs  
 
 Notes and small examples of writing GPU kernels in Python, Julia, C, and Rust.  
 
