@@ -9,3 +9,6 @@ Notes and small examples of writing GPU kernels in Python, Julia, C, and Rust.
 This was initially written before there was no support for `cuBLASDx` in Julia. [cuTile.jl](https://github.com/JuliaGPU/cuTile.jl) is a better option without descending into `CUDA C`.
 * Getting [started](setup_cuda_oxide/README.md) with NVIDIA's experimental Rust to CUDA compiler, cuda-oxide. 
 
+## Async with Rust and Python
+
+To add. 
